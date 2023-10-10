@@ -45,7 +45,7 @@ def process_uploaded_files(uploaded_files):
 
 # Streamlit app
 def main():
-    st.title("Wajne lagi hai")
+    st.title("Word cloud app")
     
     st.sidebar.header("Options")
     remove_stopwords = st.sidebar.checkbox("Remove Stopwords")
