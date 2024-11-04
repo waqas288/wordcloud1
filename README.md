@@ -1,4 +1,4 @@
-# wordcloud1
+# wordcloud
 This is a streamlit app written in python
 The code is simple to run
 The app asks the user to insert documents (docx, pdf)
